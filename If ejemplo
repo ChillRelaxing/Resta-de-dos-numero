@@ -1,0 +1,6 @@
+##pruebas de if
+if 5 == 5 :
+    print("5 es igual a 5")
+
+
+
